@@ -1,0 +1,6 @@
+Team information of the Australia Team
+Name:Australia
+No of matches:4
+position:1
+rating:68.1
+

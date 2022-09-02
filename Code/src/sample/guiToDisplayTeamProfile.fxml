@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <AnchorPane prefHeight="400.0" prefWidth="600.0">
+         <children>
+            <GridPane alignment="center" hgap="10" vgap="10">
+               <columnConstraints>
+                  <ColumnConstraints />
+                  <ColumnConstraints />
+               </columnConstraints>
+               <rowConstraints>
+                  <RowConstraints />
+                  <RowConstraints />
+               </rowConstraints>
+               <children>
+                  <AnchorPane prefHeight="746.0" prefWidth="1300.0">
+                     <children>
+                        <ImageView fitHeight="790.0" fitWidth="1372.0" layoutX="-61.0" layoutY="-5.0">
+                           <image>
+                              <Image url="@Images/yogendra-singh-byvGfqk5QAY-unsplash.jpg" />
+                           </image>
+                        </ImageView>
+                        <AnchorPane layoutX="383.0" layoutY="145.0" prefHeight="444.0" prefWidth="541.0" style="-fx-background-color: white;">
+                           <children>
+                              <Label layoutX="47.0" layoutY="20.0" text="DISPLAY TEAM PROFILE">
+                                 <font>
+                                    <Font name="Bodoni MT" size="36.0" />
+                                 </font>
+                              </Label>
+                              <TextField fx:id="askToDisplayTeamProfile" layoutX="32.0" layoutY="169.0" prefHeight="44.0" prefWidth="279.0" promptText="Yes or No" styleClass="border" stylesheets="@../values/style.css" />
+                              <Button fx:id="addButton" layoutX="192.0" layoutY="360.0" mnemonicParsing="false" onAction="#switchToScene4" prefHeight="57.0" prefWidth="157.0" style="-fx-background-color: #166e9a;" text="SUBMIT" textFill="#ffffffd4">
+                                 <font>
+                                    <Font name="Tahoma" size="18.0" />
+                                 </font>
+                              </Button>
+                              <Label layoutX="32.0" layoutY="126.0" text="Do you need to know the details of team profiles">
+                                 <font>
+                                    <Font name="Tahoma" size="21.0" />
+                                 </font>
+                              </Label>
+                              <Label layoutX="32.0" layoutY="246.0" text="If yes, enter the team name">
+                                 <font>
+                                    <Font name="Tahoma" size="21.0" />
+                                 </font>
+                              </Label>
+                              <TextField fx:id="teamNameToDisplay" layoutX="32.0" layoutY="285.0" prefHeight="44.0" prefWidth="279.0" promptText="Ex: England" styleClass="border" stylesheets="@../values/style.css" />
+                           </children>
+                        </AnchorPane>
+                     </children>
+                  </AnchorPane>
+               </children>
+            </GridPane>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

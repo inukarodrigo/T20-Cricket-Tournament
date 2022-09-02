@@ -1,0 +1,6 @@
+Team information of the Pakistan Team
+Name:Pakistan
+No of matches:4
+position:2
+rating:56.3
+

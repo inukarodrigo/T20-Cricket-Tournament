@@ -1,0 +1,201 @@
+Team who won the toss:Sri Lanka
+Decision of the team who won the toss(Bat/Ball):Bat
+
+Team New Zealand:
+Bowlers
+Name:Ish Sodhi
+wickets taken in a match:0
+overs bowled:5
+
+Name:Trent Boult
+wickets taken in a match:1
+overs bowled:2
+
+Name:Colin De Grandhomme
+wickets taken in a match:0
+overs bowled:1
+
+Name:Tim Southee
+wickets taken in a match:1
+overs bowled:2
+
+Name:Lockie Ferguson
+wickets taken in a match:0
+overs bowled:3
+
+Name:James Neesham
+wickets taken in a match:2
+overs bowled:3
+
+Name:Michell Santner
+wickets taken in a match:0
+overs bowled:3
+
+Name:Colin Munro
+wickets taken in a match:0
+overs bowled:1
+
+Total wickets taken by New Zealand team is: 4
+**********************
+Name:Kane Williamson
+scores taken in a match:90
+balls took for scoring:65
+method of dismissal:bowled
+
+Name:Ish Sodhi
+scores taken in a match:50
+balls took for scoring:29
+method of dismissal:stumped
+
+Name:Martin Guptill
+scores taken in a match:41
+balls took for scoring:26
+method of dismissal:Played till the last over
+
+Name:Ross Tailor
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Tom Latham
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Trent Boult
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Colin De Grandhomme
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Tim Southee
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Lockie Ferguson
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:James Neesham
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Michell Santner
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Colin Munro
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Total marks of New Zealand team is 181
+**********************
+
+Team Sri Lanka: 
+Batsmen details
+Name:Dimuth Karunaratne
+scores taken in a match:2
+balls took for scoring:2
+method of dismissal:caught
+
+Name:Lasith Malinga
+scores taken in a match:78
+balls took for scoring:56
+method of dismissal:stumped
+
+Name:Dushmantha Chameera
+scores taken in a match:66
+balls took for scoring:50
+method of dismissal:caught
+
+Name:Kusal Perera
+scores taken in a match:5
+balls took for scoring:6
+method of dismissal:leg by wicket
+
+Name:Kusal Mendis
+scores taken in a match:6
+balls took for scoring:6
+method of dismissal:Played till the last over
+
+Name:Avishka Fernando
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Maheesh Theekshana
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Dhananjaya De Silva
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Anjelo Mathews
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Isuru Udana
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Thisara Perera
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Suranga Lakmal
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Total marks of Sri Lanka team is 157
+**********************
+Name:Lasith Malinga
+wickets taken in a match:0
+overs bowled:4
+
+Name:Dushmantha Chameera
+wickets taken in a match:0
+overs bowled:2
+
+Name:Maheesh Theekshana
+wickets taken in a match:1
+overs bowled:2
+
+Name:Dhananjaya De Silva
+wickets taken in a match:0
+overs bowled:0
+
+Name:Anjelo Mathews
+wickets taken in a match:1
+overs bowled:6
+
+Name:Isuru Udana
+wickets taken in a match:0
+overs bowled:3
+
+Name:Thisara Perera
+wickets taken in a match:0
+overs bowled:1
+
+Name:Suranga Lakmal
+wickets taken in a match:0
+overs bowled:2
+
+Total wickets taken by Sri Lanka team is 2
+**********************
+New Zealand won the match

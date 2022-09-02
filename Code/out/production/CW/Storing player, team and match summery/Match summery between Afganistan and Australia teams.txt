@@ -1,0 +1,197 @@
+Team who won the toss:Afganistan
+Decision of the team who won the toss(Bat/Ball):Bat
+
+Team Afganistan:
+Bowlers
+Name:Rashid Khan
+wickets taken in a match:1
+overs bowled:4
+
+Name:Mohommad Nabi
+wickets taken in a match:0
+overs bowled:3
+
+Name:Mujeeb Rahman
+wickets taken in a match:0
+overs bowled:3
+
+Name:Hamid Hasan
+wickets taken in a match:0
+overs bowled:4
+
+Name:Rahmat Shah
+wickets taken in a match:1
+overs bowled:1
+
+Name:Gulbadin Naib
+wickets taken in a match:0
+overs bowled:3
+
+Name:Sayed Shirzad
+wickets taken in a match:0
+overs bowled:2
+
+Name:Samiullah Shinwari
+wickets taken in a match:0
+overs bowled:0
+
+Total wickets taken by Afganistan team is: 2
+**********************
+Name:Rashid Khan
+scores taken in a match:35
+balls took for scoring:33
+method of dismissal:stumped
+
+Name:Mohommad Nabi
+scores taken in a match:25
+balls took for scoring:15
+method of dismissal:stumped
+
+Name:Asghar Afghan
+scores taken in a match:41
+balls took for scoring:22
+method of dismissal:leg by wicket
+
+Name:Hashmatullah Shahidi
+scores taken in a match:29
+balls took for scoring:21
+method of dismissal:stumped
+
+Name:Mujeeb Rahman
+scores taken in a match:14
+balls took for scoring:13
+method of dismissal:caught
+
+Name:Hamid Hasan
+scores taken in a match:24
+balls took for scoring:11
+method of dismissal:bowled
+
+Name:Rahmat Shah
+scores taken in a match:6
+balls took for scoring:5
+method of dismissal:Played till the last over
+
+Name:Noor Ali
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Gulbadin Naib
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Sayed Shirzad
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Ikram Alikhil
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Samiullah Shinwari
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Total marks of Afganistan team is 174
+**********************
+
+Team Australia: 
+Batsmen details
+Name:Steve Smith
+scores taken in a match:52
+balls took for scoring:29
+method of dismissal:bowled
+
+Name:David Warner
+scores taken in a match:4
+balls took for scoring:5
+method of dismissal:caught
+
+Name:Aaron Finch
+scores taken in a match:131
+balls took for scoring:86
+method of dismissal:Played till the last over
+
+Name:Mitchell Starc
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Adam Zampa
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Glenn Maxwell
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Matthew Wade
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Pat Cummins
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Marcus Stoinis
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Alex Carey
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Nathan Lyon
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Kane Richardson
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Total marks of Australia team is 187
+**********************
+Name:Mitchell Starc
+wickets taken in a match:0
+overs bowled:3
+
+Name:Adam Zampa
+wickets taken in a match:2
+overs bowled:2
+
+Name:Glenn Maxwell
+wickets taken in a match:1
+overs bowled:2
+
+Name:Pat Cummins
+wickets taken in a match:1
+overs bowled:4
+
+Name:Marcus Stoinis
+wickets taken in a match:2
+overs bowled:2
+
+Name:Nathan Lyon
+wickets taken in a match:0
+overs bowled:3
+
+Name:Kane Richardson
+wickets taken in a match:0
+overs bowled:4
+
+Total wickets taken by Australia team is 6
+**********************
+Australia won the match

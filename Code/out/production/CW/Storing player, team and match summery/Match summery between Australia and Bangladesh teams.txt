@@ -1,0 +1,201 @@
+Team who won the toss:Australia
+Decision of the team who won the toss(Bat/Ball):Ball
+
+Team Australia:
+Bowlers
+Name:Mitchell Starc
+wickets taken in a match:1
+overs bowled:1
+
+Name:Adam Zampa
+wickets taken in a match:0
+overs bowled:2
+
+Name:Glenn Maxwell
+wickets taken in a match:0
+overs bowled:2
+
+Name:Pat Cummins
+wickets taken in a match:2
+overs bowled:8
+
+Name:Marcus Stoinis
+wickets taken in a match:0
+overs bowled:3
+
+Name:Nathan Lyon
+wickets taken in a match:0
+overs bowled:3
+
+Name:Kane Richardson
+wickets taken in a match:0
+overs bowled:1
+
+Total wickets taken by Australia team is: 3
+**********************
+Name:Steve Smith
+scores taken in a match:4
+balls took for scoring:5
+method of dismissal:bowled
+
+Name:David Warner
+scores taken in a match:50
+balls took for scoring:36
+method of dismissal:leg by wicket
+
+Name:Aaron Finch
+scores taken in a match:3
+balls took for scoring:3
+method of dismissal:stumped
+
+Name:Mitchell Starc
+scores taken in a match:24
+balls took for scoring:21
+method of dismissal:stumped
+
+Name:Adam Zampa
+scores taken in a match:26
+balls took for scoring:19
+method of dismissal:bowled
+
+Name:Glenn Maxwell
+scores taken in a match:35
+balls took for scoring:36
+method of dismissal:Played till the last over
+
+Name:Matthew Wade
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Pat Cummins
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Marcus Stoinis
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Alex Carey
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Nathan Lyon
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Kane Richardson
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Total marks of Australia team is 142
+**********************
+
+Team Bangladesh: 
+Batsmen details
+Name:Shakib Al Hasan
+scores taken in a match:10
+balls took for scoring:12
+method of dismissal:stumped
+
+Name:Mahmudullah
+scores taken in a match:62
+balls took for scoring:38
+method of dismissal:run out
+
+Name:Mushfiqur Rahim
+scores taken in a match:42
+balls took for scoring:22
+method of dismissal:leg by wicket
+
+Name:Liton Das
+scores taken in a match:81
+balls took for scoring:48
+method of dismissal:Played till the last over
+
+Name:Mustafizur Rahman
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Tamim Iqbal
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Soumya Sarkar
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Mashrafe Mortaza
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Mehidy Hasan
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Mohommad Saifuddin
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Sabbir Rahman
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Rubel Hossain
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Total marks of Bangladesh team is 195
+**********************
+Name:Shakib Al Hasan
+wickets taken in a match:1
+overs bowled:3
+
+Name:Mahmudullah
+wickets taken in a match:0
+overs bowled:0
+
+Name:Mustafizur Rahman
+wickets taken in a match:0
+overs bowled:2
+
+Name:Soumya Sarkar
+wickets taken in a match:0
+overs bowled:3
+
+Name:Mashrafe Mortaza
+wickets taken in a match:0
+overs bowled:1
+
+Name:Mehidy Hasan
+wickets taken in a match:1
+overs bowled:5
+
+Name:Mohommad Saifuddin
+wickets taken in a match:1
+overs bowled:3
+
+Name:Sabbir Rahman
+wickets taken in a match:2
+overs bowled:2
+
+Name:Rubel Hossain
+wickets taken in a match:0
+overs bowled:1
+
+Total wickets taken by Bangladesh team is 5
+**********************
+Bangladesh won the match

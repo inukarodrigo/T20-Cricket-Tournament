@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <AnchorPane prefHeight="400.0" prefWidth="600.0">
+         <children>
+            <GridPane alignment="center" hgap="10" vgap="10">
+               <columnConstraints>
+                  <ColumnConstraints />
+                  <ColumnConstraints />
+               </columnConstraints>
+               <rowConstraints>
+                  <RowConstraints />
+                  <RowConstraints />
+               </rowConstraints>
+               <children>
+                  <AnchorPane prefHeight="746.0" prefWidth="1300.0">
+                     <children>
+                        <ImageView fitHeight="780.0" fitWidth="1344.0" layoutX="-19.0">
+                           <image>
+                              <Image url="@Images/ajay-parthasarathy-I27kjbkwlAo-unsplash.jpg" />
+                           </image>
+                        </ImageView>
+                        <AnchorPane layoutX="378.0" layoutY="142.0" prefHeight="469.0" prefWidth="570.0" style="-fx-background-color: white;">
+                           <children>
+                              <Label layoutX="32.0" layoutY="24.0" text="DELETE &quot;NUMBER OF MATCHES&quot; FEATURE">
+                                 <font>
+                                    <Font name="Baskerville Old Face" size="25.0" />
+                                 </font>
+                              </Label>
+                              <TextField fx:id="teamName" layoutX="32.0" layoutY="184.0" prefHeight="46.0" prefWidth="314.0" promptText="Ex: Sri Lanka" styleClass="border" stylesheets="@../values/style.css" />
+                              <Button id="dark-blue" fx:id="addButton" layoutX="192.0" layoutY="370.0" mnemonicParsing="false" onAction="#deleteTeamProfile" prefHeight="57.0" prefWidth="157.0" style="-fx-background-color: #166e9a;" stylesheets="@../values/style.css" text="SUBMIT" textFill="#ffffffd4">
+                                 <font>
+                                    <Font name="Tahoma" size="18.0" />
+                                 </font>
+                              </Button>
+                              <Label layoutX="32.0" layoutY="142.0" text="Enter the team name: ">
+                                 <font>
+                                    <Font name="Tahoma" size="24.0" />
+                                 </font>
+                              </Label>
+                              <Label layoutX="140.0" layoutY="65.0" text="FROM TEAM PROFILE">
+                                 <font>
+                                    <Font name="Baskerville Old Face" size="25.0" />
+                                 </font>
+                              </Label>
+                              <Label layoutX="32.0" layoutY="260.0" text="If you are done with deleting team profiles, type yes">
+                                 <font>
+                                    <Font name="Tahoma" size="21.0" />
+                                 </font>
+                              </Label>
+                              <TextField fx:id="doneWithDeleting" layoutX="32.0" layoutY="293.0" prefHeight="46.0" prefWidth="314.0" promptText="Yes" styleClass="border" stylesheets="@../values/style.css" />
+                           </children>
+                        </AnchorPane>
+                     </children>
+                  </AnchorPane>
+               </children>
+            </GridPane>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

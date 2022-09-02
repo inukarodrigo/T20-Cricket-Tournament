@@ -1,0 +1,120 @@
+Player information of the Afganistan Team
+Name:Rashid Khan
+Matches:3
+Innings:6
+Runs:61
+50s:0
+Best:35
+wickets:1
+Role:bowler
+
+
+Name:Mohommad Nabi
+Matches:3
+Innings:6
+Runs:31
+50s:0
+Best:25
+wickets:2
+Role:all rounder
+
+
+Name:Asghar Afghan
+Matches:3
+Innings:6
+Runs:89
+50s:0
+Best:41
+wickets:0
+Role:batsman
+
+
+Name:Hashmatullah Shahidi
+Matches:3
+Innings:6
+Runs:123
+50s:1
+Best:60
+wickets:0
+Role:batsman
+
+
+Name:Mujeeb Rahman
+Matches:3
+Innings:6
+Runs:27
+50s:0
+Best:14
+wickets:1
+Role:bowler
+
+
+Name:Hamid Hasan
+Matches:3
+Innings:6
+Runs:48
+50s:0
+Best:24
+wickets:2
+Role:bowler
+
+
+Name:Rahmat Shah
+Matches:3
+Innings:6
+Runs:11
+50s:0
+Best:5
+wickets:3
+Role:all rounder
+
+
+Name:Noor Ali
+Matches:3
+Innings:6
+Runs:0
+50s:0
+Best:0
+wickets:0
+Role:batsman
+
+
+Name:Gulbadin Naib
+Matches:3
+Innings:6
+Runs:30
+50s:0
+Best:30
+wickets:1
+Role:bowler
+
+
+Name:Sayed Shirzad
+Matches:3
+Innings:6
+Runs:100
+50s:0
+Best:0
+wickets:0
+Role:bowler
+
+
+Name:Ikram Alikhil
+Matches:3
+Innings:6
+Runs:0
+50s:0
+Best:0
+wickets:0
+Role:batsman
+
+
+Name:Samiullah Shinwari
+Matches:3
+Innings:6
+Runs:0
+50s:0
+Best:0
+wickets:1
+Role:all rounder
+

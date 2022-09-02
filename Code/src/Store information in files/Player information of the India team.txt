@@ -1,0 +1,120 @@
+Player information of the India Team
+Name:Virat Kohli
+Matches:3
+Innings:6
+Runs:81
+50s:1
+Best:69
+wickets:0
+Role:batsman
+
+
+Name:Rohit Sharma
+Matches:3
+Innings:6
+Runs:67
+50s:1
+Best:63
+wickets:0
+Role:batsman
+
+
+Name:KL Rahul
+Matches:3
+Innings:6
+Runs:95
+50s:1
+Best:70
+wickets:0
+Role:batsman
+
+
+Name:MS Dhoni
+Matches:3
+Innings:6
+Runs:31
+50s:0
+Best:16
+wickets:0
+Role:batsman
+
+
+Name:Rishabh Pant
+Matches:3
+Innings:6
+Runs:82
+50s:1
+Best:51
+wickets:0
+Role:batsman
+
+
+Name:Hardik Pandya
+Matches:3
+Innings:6
+Runs:31
+50s:0
+Best:17
+wickets:1
+Role:all rounder
+
+
+Name:Mohommad Shami
+Matches:3
+Innings:6
+Runs:22
+50s:0
+Best:22
+wickets:2
+Role:bowler
+
+
+Name:Ravindra Jadeja
+Matches:3
+Innings:6
+Runs:38
+50s:0
+Best:0
+wickets:2
+Role:all rounder
+
+
+Name:Jasprit Bumrah
+Matches:3
+Innings:6
+Runs:0
+50s:0
+Best:0
+wickets:1
+Role:bowler
+
+
+Name:Sharbul Thakur
+Matches:3
+Innings:6
+Runs:0
+50s:0
+Best:0
+wickets:4
+Role:all rounder
+
+
+Name:Yuzvendra Chahal
+Matches:3
+Innings:6
+Runs:0
+50s:0
+Best:0
+wickets:5
+Role:bowler
+
+
+Name:Bhuvneshwar Kumar
+Matches:3
+Innings:6
+Runs:0
+50s:0
+Best:0
+wickets:3
+Role:bowler
+

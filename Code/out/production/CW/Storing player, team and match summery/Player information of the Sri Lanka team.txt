@@ -1,0 +1,120 @@
+Player information of the Sri Lanka Team
+Name:Dimuth Karunaratne
+Matches:3
+Innings:6
+Runs:10
+50s:0
+Best:8
+wickets:0
+Role:batsman
+
+
+Name:Lasith Malinga
+Matches:3
+Innings:6
+Runs:137
+50s:2
+Best:78
+wickets:2
+Role:bowler
+
+
+Name:Dushmantha Chameera
+Matches:3
+Innings:6
+Runs:90
+50s:1
+Best:66
+wickets:3
+Role:bowler
+
+
+Name:Kusal Perera
+Matches:3
+Innings:6
+Runs:13
+50s:0
+Best:8
+wickets:0
+Role:batsman
+
+
+Name:Kusal Mendis
+Matches:3
+Innings:6
+Runs:121
+50s:1
+Best:80
+wickets:0
+Role:batsman
+
+
+Name:Avishka Fernando
+Matches:3
+Innings:6
+Runs:19
+50s:0
+Best:17
+wickets:0
+Role:batsman
+
+
+Name:Maheesh Theekshana
+Matches:3
+Innings:6
+Runs:48
+50s:0
+Best:41
+wickets:2
+Role:bowler
+
+
+Name:Dhananjaya De Silva
+Matches:3
+Innings:6
+Runs:43
+50s:0
+Best:14
+wickets:1
+Role:all rounder
+
+
+Name:Anjelo Mathews
+Matches:3
+Innings:6
+Runs:4
+50s:0
+Best:0
+wickets:2
+Role:all rounder
+
+
+Name:Isuru Udana
+Matches:3
+Innings:6
+Runs:0
+50s:0
+Best:0
+wickets:1
+Role:all rounder
+
+
+Name:Thisara Perera
+Matches:3
+Innings:6
+Runs:0
+50s:0
+Best:0
+wickets:2
+Role:all rounder
+
+
+Name:Suranga Lakmal
+Matches:3
+Innings:6
+Runs:0
+50s:0
+Best:0
+wickets:4
+Role:bowler
+

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <GridPane alignment="center" hgap="10" vgap="10">
+         <columnConstraints>
+            <ColumnConstraints />
+            <ColumnConstraints />
+         </columnConstraints>
+         <rowConstraints>
+            <RowConstraints />
+            <RowConstraints />
+         </rowConstraints>
+         <children>
+            <AnchorPane prefHeight="746.0" prefWidth="1300.0">
+               <children>
+                  <ImageView fitHeight="780.0" fitWidth="1344.0" layoutX="-19.0">
+                     <image>
+                        <Image url="@Images/ajay-parthasarathy-I27kjbkwlAo-unsplash.jpg" />
+                     </image>
+                  </ImageView>
+                  <AnchorPane layoutX="378.0" layoutY="142.0" prefHeight="518.0" prefWidth="541.0" style="-fx-background-color: white;">
+                     <children>
+                        <Label layoutX="82.0" layoutY="14.0" text="EDIT TEAM PROFILE">
+                           <font>
+                              <Font name="Bodoni MT" size="36.0" />
+                           </font>
+                        </Label>
+                        <TextField fx:id="teamName" layoutX="32.0" layoutY="122.0" prefHeight="31.0" prefWidth="216.0" promptText="Ex: Sri Lanka" styleClass="border" stylesheets="@../values/style.css" />
+                        <Button id="dark-blue" fx:id="addButton" layoutX="192.0" layoutY="447.0" mnemonicParsing="false" onAction="#editTeamProfile" prefHeight="57.0" prefWidth="157.0" style="-fx-background-color: #166e9a;" stylesheets="@../values/style.css" text="SUBMIT" textFill="#ffffffd4">
+                           <font>
+                              <Font name="Tahoma" size="18.0" />
+                           </font>
+                        </Button>
+                        <Label layoutX="32.0" layoutY="177.0" text="Enter the field to update: ">
+                           <font>
+                              <Font name="Tahoma" size="18.0" />
+                           </font>
+                        </Label>
+                        <Label layoutX="32.0" layoutY="99.0" text="Enter the team name: ">
+                           <font>
+                              <Font name="Tahoma" size="18.0" />
+                           </font>
+                        </Label>
+                        <TextField fx:id="fieldNameTeamProfile" layoutX="32.0" layoutY="200.0" prefHeight="31.0" prefWidth="216.0" promptText="No of matches/Position" styleClass="border" stylesheets="@../values/style.css" />
+                        <Label layoutX="32.0" layoutY="248.0" text="Enter the new value: ">
+                           <font>
+                              <Font name="Tahoma" size="18.0" />
+                           </font>
+                        </Label>
+                        <TextField fx:id="newValue" layoutX="32.0" layoutY="283.0" prefHeight="31.0" prefWidth="216.0" styleClass="border" stylesheets="@../values/style.css" />
+                        <Label layoutX="32.0" layoutY="327.0" text="If you are done with editing team profiles , type yes">
+                           <font>
+                              <Font name="Tahoma" size="18.0" />
+                           </font>
+                        </Label>
+                        <TextField fx:id="doneWithEditing" layoutX="32.0" layoutY="363.0" prefHeight="31.0" prefWidth="216.0" promptText="Yes" styleClass="border" stylesheets="@../values/style.css" />
+                     </children>
+                  </AnchorPane>
+               </children>
+            </AnchorPane>
+         </children>
+      </GridPane>
+   </children>
+</AnchorPane>

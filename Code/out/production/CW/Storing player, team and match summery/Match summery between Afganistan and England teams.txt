@@ -1,0 +1,193 @@
+Team who won the toss:Afganistan
+Decision of the team who won the toss(Bat/Ball):Ball
+
+Team Afganistan:
+Bowlers
+Name:Rashid Khan
+wickets taken in a match:0
+overs bowled:1
+
+Name:Mohommad Nabi
+wickets taken in a match:2
+overs bowled:4
+
+Name:Mujeeb Rahman
+wickets taken in a match:1
+overs bowled:2
+
+Name:Hamid Hasan
+wickets taken in a match:2
+overs bowled:2
+
+Name:Rahmat Shah
+wickets taken in a match:0
+overs bowled:1
+
+Name:Gulbadin Naib
+wickets taken in a match:0
+overs bowled:0
+
+Name:Sayed Shirzad
+wickets taken in a match:0
+overs bowled:4
+
+Name:Samiullah Shinwari
+wickets taken in a match:1
+overs bowled:6
+
+Total wickets taken by Afganistan team is: 6
+**********************
+Name:Rashid Khan
+scores taken in a match:14
+balls took for scoring:8
+method of dismissal:bowled
+
+Name:Mohommad Nabi
+scores taken in a match:2
+balls took for scoring:2
+method of dismissal:run out
+
+Name:Asghar Afghan
+scores taken in a match:7
+balls took for scoring:5
+method of dismissal:leg by wicket
+
+Name:Hashmatullah Shahidi
+scores taken in a match:34
+balls took for scoring:16
+method of dismissal:bowled
+
+Name:Mujeeb Rahman
+scores taken in a match:11
+balls took for scoring:5
+method of dismissal:caught
+
+Name:Hamid Hasan
+scores taken in a match:1
+balls took for scoring:2
+method of dismissal:bowled
+
+Name:Rahmat Shah
+scores taken in a match:5
+balls took for scoring:5
+method of dismissal:bowled
+
+Name:Noor Ali
+scores taken in a match:0
+balls took for scoring:2
+method of dismissal:caught
+
+Name:Gulbadin Naib
+scores taken in a match:30
+balls took for scoring:22
+method of dismissal:stumped
+
+Name:Sayed Shirzad
+scores taken in a match:100
+balls took for scoring:53
+method of dismissal:Played till the last over
+
+Name:Ikram Alikhil
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Samiullah Shinwari
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Total marks of Afganistan team is 204
+**********************
+
+Team England: 
+Batsmen details
+Name:Joe Root
+scores taken in a match:9
+balls took for scoring:8
+method of dismissal:bowled
+
+Name:Ben Stokes
+scores taken in a match:16
+balls took for scoring:16
+method of dismissal:bowled
+
+Name:Jos Buttler
+scores taken in a match:20
+balls took for scoring:13
+method of dismissal:stumped
+
+Name:Moeen Ali
+scores taken in a match:101
+balls took for scoring:69
+method of dismissal:caught
+
+Name:Eoin Morgan
+scores taken in a match:0
+balls took for scoring:1
+method of dismissal:run out
+
+Name:Jonny Bairstow
+scores taken in a match:6
+balls took for scoring:9
+method of dismissal:caught
+
+Name:Chris Woakes
+scores taken in a match:11
+balls took for scoring:4
+method of dismissal:Played till the last over
+
+Name:Jofra Archer
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Jason Roy
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Adil Rashid
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Dom Sibley
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Mark Wood
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Total marks of England team is 163
+**********************
+Name:Ben Stokes
+wickets taken in a match:1
+overs bowled:7
+
+Name:Moeen Ali
+wickets taken in a match:1
+overs bowled:3
+
+Name:Chris Woakes
+wickets taken in a match:0
+overs bowled:2
+
+Name:Jofra Archer
+wickets taken in a match:3
+overs bowled:2
+
+Name:Adil Rashid
+wickets taken in a match:0
+overs bowled:2
+
+Name:Mark Wood
+wickets taken in a match:4
+overs bowled:4
+
+Total wickets taken by England team is 9
+**********************
+Afganistan won the match

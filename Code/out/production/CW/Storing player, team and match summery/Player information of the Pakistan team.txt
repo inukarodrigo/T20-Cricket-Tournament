@@ -1,0 +1,120 @@
+Player information of the Pakistan Team
+Name:Babar Azam
+Matches:4
+Innings:8
+Runs:34
+50s:0
+Best:20
+wickets:0
+Role:batsman
+
+
+Name:Shaheen Afridi
+Matches:4
+Innings:8
+Runs:82
+50s:1
+Best:67
+wickets:6
+Role:bowler
+
+
+Name:Mohommad Amir
+Matches:4
+Innings:8
+Runs:148
+50s:1
+Best:62
+wickets:4
+Role:bowler
+
+
+Name:Shoaib Malik
+Matches:4
+Innings:8
+Runs:29
+50s:0
+Best:29
+wickets:2
+Role:all rounder
+
+
+Name:Asif Ali
+Matches:4
+Innings:8
+Runs:117
+50s:1
+Best:64
+wickets:0
+Role:batsman
+
+
+Name:Hasan Ali
+Matches:4
+Innings:8
+Runs:50
+50s:0
+Best:29
+wickets:0
+Role:bowler
+
+
+Name:Mohammad Hafeez
+Matches:4
+Innings:8
+Runs:76
+50s:0
+Best:31
+wickets:2
+Role:all rounder
+
+
+Name:Fakhar Zaman
+Matches:4
+Innings:8
+Runs:116
+50s:0
+Best:6
+wickets:0
+Role:batsman
+
+
+Name:Sarfaraz Ahmad
+Matches:4
+Innings:8
+Runs:20
+50s:0
+Best:0
+wickets:0
+Role:batsman
+
+
+Name:Shadab Khan
+Matches:4
+Innings:8
+Runs:0
+50s:0
+Best:0
+wickets:3
+Role:all rounder
+
+
+Name:Imad Wasim
+Matches:4
+Innings:8
+Runs:0
+50s:0
+Best:0
+wickets:3
+Role:all rounder
+
+
+Name:Wahab Riaz
+Matches:4
+Innings:8
+Runs:0
+50s:0
+Best:0
+wickets:1
+Role:all rounder
+

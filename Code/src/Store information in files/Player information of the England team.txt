@@ -1,0 +1,120 @@
+Player information of the England Team
+Name:Joe Root
+Matches:3
+Innings:6
+Runs:69
+50s:0
+Best:39
+wickets:0
+Role:batsman
+
+
+Name:Ben Stokes
+Matches:3
+Innings:6
+Runs:50
+50s:0
+Best:26
+wickets:4
+Role:all rounder
+
+
+Name:Jos Buttler
+Matches:3
+Innings:6
+Runs:94
+50s:1
+Best:67
+wickets:0
+Role:batsman
+
+
+Name:Moeen Ali
+Matches:3
+Innings:6
+Runs:146
+50s:1
+Best:101
+wickets:1
+Role:all rounder
+
+
+Name:Eoin Morgan
+Matches:3
+Innings:6
+Runs:10
+50s:0
+Best:10
+wickets:0
+Role:batsman
+
+
+Name:Jonny Bairstow
+Matches:3
+Innings:6
+Runs:46
+50s:0
+Best:40
+wickets:0
+Role:batsman
+
+
+Name:Chris Woakes
+Matches:3
+Innings:6
+Runs:70
+50s:0
+Best:0
+wickets:4
+Role:bowler
+
+
+Name:Jofra Archer
+Matches:3
+Innings:6
+Runs:0
+50s:0
+Best:0
+wickets:4
+Role:bowler
+
+
+Name:Jason Roy
+Matches:3
+Innings:6
+Runs:0
+50s:0
+Best:0
+wickets:0
+Role:batsman
+
+
+Name:Adil Rashid
+Matches:3
+Innings:6
+Runs:0
+50s:0
+Best:0
+wickets:2
+Role:bowler
+
+
+Name:Dom Sibley
+Matches:3
+Innings:6
+Runs:0
+50s:0
+Best:0
+wickets:0
+Role:batsman
+
+
+Name:Mark Wood
+Matches:3
+Innings:6
+Runs:0
+50s:0
+Best:0
+wickets:4
+Role:bowler
+

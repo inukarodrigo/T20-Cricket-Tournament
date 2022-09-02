@@ -1,0 +1,120 @@
+Player information of the Bangladesh Team
+Name:Shakib Al Hasan
+Matches:3
+Innings:6
+Runs:28
+50s:0
+Best:15
+wickets:1
+Role:all rounder
+
+
+Name:Mahmudullah
+Matches:3
+Innings:6
+Runs:134
+50s:2
+Best:70
+wickets:0
+Role:all rounder
+
+
+Name:Mushfiqur Rahim
+Matches:3
+Innings:6
+Runs:113
+50s:0
+Best:43
+wickets:0
+Role:batsman
+
+
+Name:Liton Das
+Matches:3
+Innings:6
+Runs:143
+50s:0
+Best:25
+wickets:0
+Role:batsman
+
+
+Name:Mustafizur Rahman
+Matches:3
+Innings:6
+Runs:7
+50s:0
+Best:7
+wickets:0
+Role:bowler
+
+
+Name:Tamim Iqbal
+Matches:3
+Innings:6
+Runs:45
+50s:0
+Best:45
+wickets:0
+Role:batsman
+
+
+Name:Soumya Sarkar
+Matches:3
+Innings:6
+Runs:33
+50s:0
+Best:33
+wickets:0
+Role:all rounder
+
+
+Name:Mashrafe Mortaza
+Matches:3
+Innings:6
+Runs:7
+50s:0
+Best:7
+wickets:2
+Role:bowler
+
+
+Name:Mehidy Hasan
+Matches:3
+Innings:6
+Runs:3
+50s:0
+Best:0
+wickets:1
+Role:all rounder
+
+
+Name:Mohommad Saifuddin
+Matches:3
+Innings:6
+Runs:0
+50s:0
+Best:0
+wickets:1
+Role:all rounder
+
+
+Name:Sabbir Rahman
+Matches:3
+Innings:6
+Runs:0
+50s:0
+Best:0
+wickets:4
+Role:all rounder
+
+
+Name:Rubel Hossain
+Matches:3
+Innings:6
+Runs:0
+50s:0
+Best:0
+wickets:4
+Role:bowler
+

@@ -1,0 +1,120 @@
+Player information of the Australia Team
+Name:Steve Smith
+Matches:4
+Innings:8
+Runs:106
+50s:1
+Best:52
+wickets:0
+Role:batsman
+
+
+Name:David Warner
+Matches:4
+Innings:8
+Runs:203
+50s:2
+Best:129
+wickets:0
+Role:batsman
+
+
+Name:Aaron Finch
+Matches:4
+Innings:8
+Runs:225
+50s:1
+Best:58
+wickets:0
+Role:batsman
+
+
+Name:Mitchell Starc
+Matches:4
+Innings:8
+Runs:30
+50s:0
+Best:24
+wickets:3
+Role:bowler
+
+
+Name:Adam Zampa
+Matches:4
+Innings:8
+Runs:43
+50s:0
+Best:26
+wickets:3
+Role:bowler
+
+
+Name:Glenn Maxwell
+Matches:4
+Innings:8
+Runs:61
+50s:0
+Best:26
+wickets:6
+Role:all rounder
+
+
+Name:Matthew Wade
+Matches:4
+Innings:8
+Runs:14
+50s:0
+Best:0
+wickets:0
+Role:batsman
+
+
+Name:Pat Cummins
+Matches:4
+Innings:8
+Runs:0
+50s:0
+Best:0
+wickets:4
+Role:bowler
+
+
+Name:Marcus Stoinis
+Matches:4
+Innings:8
+Runs:0
+50s:0
+Best:0
+wickets:4
+Role:all rounder
+
+
+Name:Alex Carey
+Matches:4
+Innings:8
+Runs:0
+50s:0
+Best:0
+wickets:0
+Role:batsman
+
+
+Name:Nathan Lyon
+Matches:4
+Innings:8
+Runs:0
+50s:0
+Best:0
+wickets:2
+Role:bowler
+
+
+Name:Kane Richardson
+Matches:4
+Innings:8
+Runs:0
+50s:0
+Best:0
+wickets:1
+Role:bowler
+

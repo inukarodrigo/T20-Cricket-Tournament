@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<HBox maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="601.0" prefWidth="1118.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <VBox alignment="TOP_CENTER" prefHeight="200.0" prefWidth="400.0" styleClass="left-side-background" stylesheets="@../values/style.css">
+         <children>
+            <ImageView fitHeight="283.0" fitWidth="249.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@Images/creative-logo-cricket-vector-illustration-creative-abstract-cricket-player-black-background-typopgraphy-vector-109905399.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="361.0" fitWidth="400.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@Images/pink-cricket-ball-helmet-black-white-background-helmetworld-worldcup-twenty-t-cricketworldcup-tournament-game-play-winner-150156244.jpg" />
+               </image>
+            </ImageView>
+            <Pane prefHeight="83.0" prefWidth="400.0" VBox.vgrow="ALWAYS" />
+         </children>
+      </VBox>
+      <VBox prefHeight="601.0" prefWidth="434.0">
+         <children>
+            <Pane prefHeight="177.0" prefWidth="400.0">
+               <children>
+                  <Label fx:id="errorMessageLabel" alignment="CENTER" layoutX="1.0" layoutY="57.0" prefHeight="118.0" prefWidth="434.0" textFill="#171717">
+                     <font>
+                        <Font name="Arial Bold" size="18.0" />
+                     </font>
+                  </Label>
+                  <Label layoutX="28.0" layoutY="14.0" text="Tournament Matches">
+                     <font>
+                        <Font name="Berlin Sans FB Demi Bold" size="36.0" />
+                     </font>
+                  </Label>
+               </children>
+            </Pane>
+            <Pane prefHeight="428.0" prefWidth="434.0" styleClass="transparent" stylesheets="@../values/style.css">
+               <children>
+                  <Label layoutX="14.0" layoutY="22.0" prefHeight="35.0" prefWidth="359.0" text="Do you want to get the match summery?">
+                     <font>
+                        <Font name="Berlin Sans FB Demi Bold" size="19.0" />
+                     </font>
+                  </Label>
+                  <TextField fx:id="askToDisplayMatchSummery" layoutX="14.0" layoutY="57.0" prefHeight="35.0" prefWidth="274.0" promptText="Yes or No" styleClass="border" stylesheets="@../values/style.css" />
+                  <Button fx:id="addButton" layoutX="52.0" layoutY="362.0" mnemonicParsing="false" prefHeight="50.0" prefWidth="304.0" stylesheets="@../values/style.css" text="SUBMIT" textFill="#fcfcfc">
+                     <font>
+                        <Font name="Arial" size="24.0" />
+                     </font>
+                     <styleClass>
+                        <String fx:value="left-side-background" />
+                        <String fx:value="button" />
+                     </styleClass>
+                  </Button>
+                  <Label layoutX="14.0" layoutY="105.0" prefHeight="35.0" prefWidth="359.0" text="Do you want to view the best 5 batsmen?">
+                     <font>
+                        <Font name="Berlin Sans FB Demi Bold" size="19.0" />
+                     </font>
+                  </Label>
+                  <TextField fx:id="askToDisplayBest5Batsmen" layoutX="14.0" layoutY="140.0" prefHeight="35.0" prefWidth="274.0" promptText="Yes or No" styleClass="border" stylesheets="@../values/style.css" />
+                  <Label layoutX="14.0" layoutY="184.0" prefHeight="35.0" prefWidth="359.0" text="Do you want to view the best 5 bowlers?">
+                     <font>
+                        <Font name="Berlin Sans FB Demi Bold" size="19.0" />
+                     </font>
+                  </Label>
+                  <TextField fx:id="askToDisplayBest5Bowlers" layoutX="14.0" layoutY="219.0" prefHeight="35.0" prefWidth="274.0" promptText="Yes or No" styleClass="border" stylesheets="@../values/style.css" />
+                  <Label layoutX="14.0" layoutY="254.0" prefHeight="35.0" prefWidth="426.0" text="Do you want to view the tournament standing?">
+                     <font>
+                        <Font name="Berlin Sans FB Demi Bold" size="19.0" />
+                     </font>
+                  </Label>
+                  <TextField fx:id="askToDisplayTournamentStanding" layoutX="14.0" layoutY="289.0" prefHeight="35.0" prefWidth="274.0" promptText="Yes or No" styleClass="border" stylesheets="@../values/style.css" />
+               </children>
+            </Pane>
+         </children>
+      </VBox>
+      <VBox alignment="TOP_CENTER" prefHeight="601.0" prefWidth="263.0" styleClass="left-side-background" stylesheets="@../values/style.css">
+         <children>
+            <ImageView fitHeight="316.0" fitWidth="285.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@Images/istockphoto-1179575293-612x612.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fitHeight="126.0" fitWidth="302.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@Images/cricket-horizontal-banner-batsman-championship-background-free-vector.jpg" />
+               </image>
+            </ImageView>
+            <Pane prefHeight="159.0" prefWidth="285.0" VBox.vgrow="ALWAYS">
+               <children>
+                  <ImageView fitHeight="198.0" fitWidth="285.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@Images/gettyimages-497203317-612x612.jpg" />
+                     </image>
+                  </ImageView>
+               </children>
+            </Pane>
+         </children>
+      </VBox>
+   </children>
+</HBox>

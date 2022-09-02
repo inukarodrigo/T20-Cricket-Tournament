@@ -1,0 +1,6 @@
+Team information of the Afganistan Team
+Name:Afganistan
+No of matches:3
+position:1
+rating:38.199999999999996
+

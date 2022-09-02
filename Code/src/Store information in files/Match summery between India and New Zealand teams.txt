@@ -1,0 +1,197 @@
+Team who won the toss:India
+Decision of the team who won the toss(Bat/Ball):Ball
+
+Team India:
+Bowlers
+Name:Hardik Pandya
+wickets taken in a match:1
+overs bowled:4
+
+Name:Mohommad Shami
+wickets taken in a match:0
+overs bowled:2
+
+Name:Ravindra Jadeja
+wickets taken in a match:0
+overs bowled:1
+
+Name:Jasprit Bumrah
+wickets taken in a match:1
+overs bowled:2
+
+Name:Sharbul Thakur
+wickets taken in a match:0
+overs bowled:4
+
+Name:Yuzvendra Chahal
+wickets taken in a match:1
+overs bowled:3
+
+Name:Bhuvneshwar Kumar
+wickets taken in a match:1
+overs bowled:4
+
+Total wickets taken by India team is: 4
+**********************
+Name:Virat Kohli
+scores taken in a match:69
+balls took for scoring:59
+method of dismissal:stumped
+
+Name:Rohit Sharma
+scores taken in a match:1
+balls took for scoring:2
+method of dismissal:bowled
+
+Name:KL Rahul
+scores taken in a match:70
+balls took for scoring:50
+method of dismissal:stumped
+
+Name:MS Dhoni
+scores taken in a match:9
+balls took for scoring:9
+method of dismissal:Played till the last over
+
+Name:Rishabh Pant
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Hardik Pandya
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Mohommad Shami
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Ravindra Jadeja
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Jasprit Bumrah
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Sharbul Thakur
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Yuzvendra Chahal
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Bhuvneshwar Kumar
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Total marks of India team is 149
+**********************
+
+Team New Zealand: 
+Batsmen details
+Name:Kane Williamson
+scores taken in a match:44
+balls took for scoring:31
+method of dismissal:caught
+
+Name:Ish Sodhi
+scores taken in a match:78
+balls took for scoring:69
+method of dismissal:run out
+
+Name:Martin Guptill
+scores taken in a match:22
+balls took for scoring:13
+method of dismissal:caught
+
+Name:Ross Tailor
+scores taken in a match:1
+balls took for scoring:3
+method of dismissal:caught
+
+Name:Tom Latham
+scores taken in a match:4
+balls took for scoring:4
+method of dismissal:Played till the last over
+
+Name:Trent Boult
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Colin De Grandhomme
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Tim Southee
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Lockie Ferguson
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:James Neesham
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Michell Santner
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Colin Munro
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Total marks of New Zealand team is 149
+**********************
+Name:Ish Sodhi
+wickets taken in a match:1
+overs bowled:3
+
+Name:Trent Boult
+wickets taken in a match:0
+overs bowled:0
+
+Name:Colin De Grandhomme
+wickets taken in a match:0
+overs bowled:2
+
+Name:Tim Southee
+wickets taken in a match:1
+overs bowled:3
+
+Name:Lockie Ferguson
+wickets taken in a match:0
+overs bowled:1
+
+Name:James Neesham
+wickets taken in a match:1
+overs bowled:5
+
+Name:Michell Santner
+wickets taken in a match:0
+overs bowled:3
+
+Name:Colin Munro
+wickets taken in a match:0
+overs bowled:3
+
+Total wickets taken by New Zealand team is 3
+**********************
+New Zealand won the match

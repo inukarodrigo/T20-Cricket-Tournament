@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.Controller">
+   <children>
+      <AnchorPane prefHeight="400.0" prefWidth="600.0">
+         <children>
+            <AnchorPane prefHeight="400.0" prefWidth="600.0">
+               <children>
+                  <GridPane alignment="center" hgap="10" vgap="10">
+                     <columnConstraints>
+                        <ColumnConstraints />
+                        <ColumnConstraints />
+                     </columnConstraints>
+                     <rowConstraints>
+                        <RowConstraints />
+                        <RowConstraints />
+                     </rowConstraints>
+                     <children>
+                        <AnchorPane prefHeight="746.0" prefWidth="1300.0">
+                           <children>
+                              <ImageView fitHeight="780.0" fitWidth="1344.0" layoutX="-19.0">
+                                 <image>
+                                    <Image url="@Images/cfphotosin-photography-HJbv998de9s-unsplash.jpg" />
+                                 </image>
+                              </ImageView>
+                              <AnchorPane layoutX="392.0" layoutY="150.0" prefHeight="456.0" prefWidth="541.0" style="-fx-background-color: white;">
+                                 <children>
+                                    <Label layoutX="29.0" layoutY="20.0" text="DELETE PLAYER PROFILE">
+                                       <font>
+                                          <Font name="Bodoni MT" size="36.0" />
+                                       </font>
+                                    </Label>
+                                    <TextField fx:id="playerName" layoutX="29.0" layoutY="137.0" prefHeight="65.0" prefWidth="363.0" promptText="Ex : Rashid Khan" styleClass="border" stylesheets="@../values/style.css" />
+                                    <Button fx:id="addButton" layoutX="192.0" layoutY="370.0" mnemonicParsing="false" onAction="#deletePlayerProfile" prefHeight="57.0" prefWidth="157.0" style="-fx-background-color: #166e9a;" text="SUBMIT" textFill="#ffffffd4">
+                                       <font>
+                                          <Font name="Tahoma" size="18.0" />
+                                       </font>
+                                    </Button>
+                                    <Label layoutX="29.0" layoutY="93.0" prefHeight="44.0" prefWidth="250.0" text="Enter the player name: ">
+                                       <font>
+                                          <Font name="Tahoma" size="17.0" />
+                                       </font>
+                                    </Label>
+                                    <Label layoutX="29.0" layoutY="228.0" prefHeight="44.0" prefWidth="441.0" text="If you are done with deleting player profiles, type yes">
+                                       <font>
+                                          <Font name="Tahoma" size="17.0" />
+                                       </font>
+                                    </Label>
+                                    <TextField fx:id="doneWithDeletingPlayer" layoutX="29.0" layoutY="285.0" prefHeight="65.0" prefWidth="363.0" promptText="Yes" styleClass="border" stylesheets="@../values/style.css" />
+                                 </children>
+                              </AnchorPane>
+                           </children>
+                        </AnchorPane>
+                     </children>
+                  </GridPane>
+               </children>
+            </AnchorPane>
+         </children>
+      </AnchorPane>
+   </children>
+</AnchorPane>

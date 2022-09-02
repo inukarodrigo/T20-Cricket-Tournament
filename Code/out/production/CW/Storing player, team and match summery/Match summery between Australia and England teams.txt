@@ -1,0 +1,189 @@
+Team who won the toss:England
+Decision of the team who won the toss(Bat/Ball):Ball
+
+Team Australia:
+Bowlers
+Name:Mitchell Starc
+wickets taken in a match:2
+overs bowled:6
+
+Name:Adam Zampa
+wickets taken in a match:0
+overs bowled:2
+
+Name:Glenn Maxwell
+wickets taken in a match:2
+overs bowled:2
+
+Name:Pat Cummins
+wickets taken in a match:1
+overs bowled:3
+
+Name:Marcus Stoinis
+wickets taken in a match:0
+overs bowled:0
+
+Name:Nathan Lyon
+wickets taken in a match:0
+overs bowled:2
+
+Name:Kane Richardson
+wickets taken in a match:1
+overs bowled:5
+
+Total wickets taken by Australia team is: 6
+**********************
+Name:Steve Smith
+scores taken in a match:24
+balls took for scoring:17
+method of dismissal:leg by wicket
+
+Name:David Warner
+scores taken in a match:129
+balls took for scoring:78
+method of dismissal:stumped
+
+Name:Aaron Finch
+scores taken in a match:33
+balls took for scoring:25
+method of dismissal:Played till the last over
+
+Name:Mitchell Starc
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Adam Zampa
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Glenn Maxwell
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Matthew Wade
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Pat Cummins
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Marcus Stoinis
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Alex Carey
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Nathan Lyon
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Kane Richardson
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Total marks of Australia team is 186
+**********************
+
+Team England: 
+Batsmen details
+Name:Joe Root
+scores taken in a match:21
+balls took for scoring:25
+method of dismissal:stumped
+
+Name:Ben Stokes
+scores taken in a match:8
+balls took for scoring:5
+method of dismissal:caught
+
+Name:Jos Buttler
+scores taken in a match:7
+balls took for scoring:5
+method of dismissal:leg by wicket
+
+Name:Moeen Ali
+scores taken in a match:16
+balls took for scoring:15
+method of dismissal:leg by wicket
+
+Name:Eoin Morgan
+scores taken in a match:10
+balls took for scoring:12
+method of dismissal:bowled
+
+Name:Jonny Bairstow
+scores taken in a match:40
+balls took for scoring:19
+method of dismissal:leg by wicket
+
+Name:Chris Woakes
+scores taken in a match:59
+balls took for scoring:39
+method of dismissal:Played till the last over
+
+Name:Jofra Archer
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Jason Roy
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Adil Rashid
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Dom Sibley
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Mark Wood
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Total marks of England team is 161
+**********************
+Name:Ben Stokes
+wickets taken in a match:1
+overs bowled:3
+
+Name:Moeen Ali
+wickets taken in a match:0
+overs bowled:3
+
+Name:Chris Woakes
+wickets taken in a match:1
+overs bowled:3
+
+Name:Jofra Archer
+wickets taken in a match:0
+overs bowled:3
+
+Name:Adil Rashid
+wickets taken in a match:0
+overs bowled:4
+
+Name:Mark Wood
+wickets taken in a match:0
+overs bowled:4
+
+Total wickets taken by England team is 2
+**********************
+Australia won the match

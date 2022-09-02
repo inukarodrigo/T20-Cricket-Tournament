@@ -1,0 +1,197 @@
+Team who won the toss:Pakistan
+Decision of the team who won the toss(Bat/Ball):Ball
+
+Team Australia:
+Bowlers
+Name:Mitchell Starc
+wickets taken in a match:0
+overs bowled:1
+
+Name:Adam Zampa
+wickets taken in a match:1
+overs bowled:4
+
+Name:Glenn Maxwell
+wickets taken in a match:3
+overs bowled:5
+
+Name:Pat Cummins
+wickets taken in a match:0
+overs bowled:3
+
+Name:Marcus Stoinis
+wickets taken in a match:2
+overs bowled:2
+
+Name:Nathan Lyon
+wickets taken in a match:2
+overs bowled:4
+
+Name:Kane Richardson
+wickets taken in a match:0
+overs bowled:1
+
+Total wickets taken by Australia team is: 8
+**********************
+Name:Steve Smith
+scores taken in a match:26
+balls took for scoring:25
+method of dismissal:leg by wicket
+
+Name:David Warner
+scores taken in a match:20
+balls took for scoring:11
+method of dismissal:caught
+
+Name:Aaron Finch
+scores taken in a match:58
+balls took for scoring:45
+method of dismissal:bowled
+
+Name:Mitchell Starc
+scores taken in a match:6
+balls took for scoring:3
+method of dismissal:run out
+
+Name:Adam Zampa
+scores taken in a match:17
+balls took for scoring:9
+method of dismissal:bowled
+
+Name:Glenn Maxwell
+scores taken in a match:26
+balls took for scoring:22
+method of dismissal:run out
+
+Name:Matthew Wade
+scores taken in a match:14
+balls took for scoring:5
+method of dismissal:Played till the last over
+
+Name:Pat Cummins
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Marcus Stoinis
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Alex Carey
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Nathan Lyon
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Kane Richardson
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Total marks of Australia team is 167
+**********************
+
+Team Pakistan: 
+Batsmen details
+Name:Babar Azam
+scores taken in a match:8
+balls took for scoring:5
+method of dismissal:caught
+
+Name:Shaheen Afridi
+scores taken in a match:0
+balls took for scoring:1
+method of dismissal:leg by wicket
+
+Name:Mohommad Amir
+scores taken in a match:62
+balls took for scoring:56
+method of dismissal:run out
+
+Name:Shoaib Malik
+scores taken in a match:0
+balls took for scoring:1
+method of dismissal:bowled
+
+Name:Asif Ali
+scores taken in a match:7
+balls took for scoring:5
+method of dismissal:stumped
+
+Name:Hasan Ali
+scores taken in a match:15
+balls took for scoring:16
+method of dismissal:leg by wicket
+
+Name:Mohammad Hafeez
+scores taken in a match:31
+balls took for scoring:26
+method of dismissal:run out
+
+Name:Fakhar Zaman
+scores taken in a match:6
+balls took for scoring:9
+method of dismissal:stumped
+
+Name:Sarfaraz Ahmad
+scores taken in a match:1
+balls took for scoring:1
+method of dismissal:Played till the last over
+
+Name:Shadab Khan
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Imad Wasim
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Wahab Riaz
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Total marks of Pakistan team is 130
+**********************
+Name:Shaheen Afridi
+wickets taken in a match:1
+overs bowled:2
+
+Name:Mohommad Amir
+wickets taken in a match:3
+overs bowled:3
+
+Name:Shoaib Malik
+wickets taken in a match:1
+overs bowled:3
+
+Name:Hasan Ali
+wickets taken in a match:0
+overs bowled:3
+
+Name:Mohammad Hafeez
+wickets taken in a match:0
+overs bowled:4
+
+Name:Shadab Khan
+wickets taken in a match:0
+overs bowled:1
+
+Name:Imad Wasim
+wickets taken in a match:1
+overs bowled:4
+
+Name:Wahab Riaz
+wickets taken in a match:0
+overs bowled:0
+
+Total wickets taken by Pakistan team is 6
+**********************
+Australia won the match

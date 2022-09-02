@@ -1,0 +1,197 @@
+Team who won the toss:India
+Decision of the team who won the toss(Bat/Ball):Ball
+
+Team India:
+Bowlers
+Name:Hardik Pandya
+wickets taken in a match:0
+overs bowled:2
+
+Name:Mohommad Shami
+wickets taken in a match:0
+overs bowled:2
+
+Name:Ravindra Jadeja
+wickets taken in a match:0
+overs bowled:4
+
+Name:Jasprit Bumrah
+wickets taken in a match:0
+overs bowled:2
+
+Name:Sharbul Thakur
+wickets taken in a match:2
+overs bowled:3
+
+Name:Yuzvendra Chahal
+wickets taken in a match:2
+overs bowled:4
+
+Name:Bhuvneshwar Kumar
+wickets taken in a match:2
+overs bowled:3
+
+Total wickets taken by India team is: 6
+**********************
+Name:Virat Kohli
+scores taken in a match:9
+balls took for scoring:9
+method of dismissal:run out
+
+Name:Rohit Sharma
+scores taken in a match:63
+balls took for scoring:37
+method of dismissal:caught
+
+Name:KL Rahul
+scores taken in a match:24
+balls took for scoring:24
+method of dismissal:caught
+
+Name:MS Dhoni
+scores taken in a match:6
+balls took for scoring:5
+method of dismissal:stumped
+
+Name:Rishabh Pant
+scores taken in a match:31
+balls took for scoring:32
+method of dismissal:stumped
+
+Name:Hardik Pandya
+scores taken in a match:14
+balls took for scoring:13
+method of dismissal:Played till the last over
+
+Name:Mohommad Shami
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Ravindra Jadeja
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Jasprit Bumrah
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Sharbul Thakur
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Yuzvendra Chahal
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Bhuvneshwar Kumar
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Total marks of India team is 147
+**********************
+
+Team Pakistan: 
+Batsmen details
+Name:Babar Azam
+scores taken in a match:6
+balls took for scoring:3
+method of dismissal:bowled
+
+Name:Shaheen Afridi
+scores taken in a match:67
+balls took for scoring:38
+method of dismissal:leg by wicket
+
+Name:Mohommad Amir
+scores taken in a match:49
+balls took for scoring:30
+method of dismissal:caught
+
+Name:Shoaib Malik
+scores taken in a match:0
+balls took for scoring:1
+method of dismissal:bowled
+
+Name:Asif Ali
+scores taken in a match:39
+balls took for scoring:25
+method of dismissal:bowled
+
+Name:Hasan Ali
+scores taken in a match:0
+balls took for scoring:3
+method of dismissal:leg by wicket
+
+Name:Mohammad Hafeez
+scores taken in a match:28
+balls took for scoring:20
+method of dismissal:Played till the last over
+
+Name:Fakhar Zaman
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Sarfaraz Ahmad
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Shadab Khan
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Imad Wasim
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Wahab Riaz
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Total marks of Pakistan team is 189
+**********************
+Name:Shaheen Afridi
+wickets taken in a match:3
+overs bowled:5
+
+Name:Mohommad Amir
+wickets taken in a match:0
+overs bowled:2
+
+Name:Shoaib Malik
+wickets taken in a match:1
+overs bowled:6
+
+Name:Hasan Ali
+wickets taken in a match:0
+overs bowled:3
+
+Name:Mohammad Hafeez
+wickets taken in a match:0
+overs bowled:1
+
+Name:Shadab Khan
+wickets taken in a match:1
+overs bowled:1
+
+Name:Imad Wasim
+wickets taken in a match:0
+overs bowled:2
+
+Name:Wahab Riaz
+wickets taken in a match:0
+overs bowled:0
+
+Total wickets taken by Pakistan team is 5
+**********************
+Pakistan won the match

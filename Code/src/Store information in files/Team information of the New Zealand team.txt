@@ -1,0 +1,6 @@
+Team information of the New Zealand Team
+Name:New Zealand
+No of matches:3
+position:3
+rating:44.3
+

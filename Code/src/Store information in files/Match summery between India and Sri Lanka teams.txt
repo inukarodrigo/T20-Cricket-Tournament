@@ -1,0 +1,197 @@
+Team who won the toss:India
+Decision of the team who won the toss(Bat/Ball):Ball
+
+Team India:
+Bowlers
+Name:Hardik Pandya
+wickets taken in a match:0
+overs bowled:1
+
+Name:Mohommad Shami
+wickets taken in a match:2
+overs bowled:4
+
+Name:Ravindra Jadeja
+wickets taken in a match:2
+overs bowled:3
+
+Name:Jasprit Bumrah
+wickets taken in a match:0
+overs bowled:1
+
+Name:Sharbul Thakur
+wickets taken in a match:2
+overs bowled:4
+
+Name:Yuzvendra Chahal
+wickets taken in a match:2
+overs bowled:4
+
+Name:Bhuvneshwar Kumar
+wickets taken in a match:0
+overs bowled:3
+
+Total wickets taken by India team is: 8
+**********************
+Name:Virat Kohli
+scores taken in a match:3
+balls took for scoring:6
+method of dismissal:stumped
+
+Name:Rohit Sharma
+scores taken in a match:3
+balls took for scoring:6
+method of dismissal:leg by wicket
+
+Name:KL Rahul
+scores taken in a match:1
+balls took for scoring:3
+method of dismissal:leg by wicket
+
+Name:MS Dhoni
+scores taken in a match:16
+balls took for scoring:14
+method of dismissal:leg by wicket
+
+Name:Rishabh Pant
+scores taken in a match:51
+balls took for scoring:35
+method of dismissal:stumped
+
+Name:Hardik Pandya
+scores taken in a match:17
+balls took for scoring:10
+method of dismissal:bowled
+
+Name:Mohommad Shami
+scores taken in a match:22
+balls took for scoring:21
+method of dismissal:run out
+
+Name:Ravindra Jadeja
+scores taken in a match:38
+balls took for scoring:25
+method of dismissal:Played till the last over
+
+Name:Jasprit Bumrah
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Sharbul Thakur
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Yuzvendra Chahal
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Bhuvneshwar Kumar
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Total marks of India team is 151
+**********************
+
+Team Sri Lanka: 
+Batsmen details
+Name:Dimuth Karunaratne
+scores taken in a match:8
+balls took for scoring:4
+method of dismissal:bowled
+
+Name:Lasith Malinga
+scores taken in a match:58
+balls took for scoring:42
+method of dismissal:leg by wicket
+
+Name:Dushmantha Chameera
+scores taken in a match:5
+balls took for scoring:9
+method of dismissal:leg by wicket
+
+Name:Kusal Perera
+scores taken in a match:8
+balls took for scoring:9
+method of dismissal:run out
+
+Name:Kusal Mendis
+scores taken in a match:35
+balls took for scoring:20
+method of dismissal:leg by wicket
+
+Name:Avishka Fernando
+scores taken in a match:17
+balls took for scoring:14
+method of dismissal:stumped
+
+Name:Maheesh Theekshana
+scores taken in a match:7
+balls took for scoring:9
+method of dismissal:caught
+
+Name:Dhananjaya De Silva
+scores taken in a match:14
+balls took for scoring:9
+method of dismissal:leg by wicket
+
+Name:Anjelo Mathews
+scores taken in a match:4
+balls took for scoring:4
+method of dismissal:Played till the last over
+
+Name:Isuru Udana
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Thisara Perera
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Suranga Lakmal
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Total marks of Sri Lanka team is 156
+**********************
+Name:Lasith Malinga
+wickets taken in a match:1
+overs bowled:3
+
+Name:Dushmantha Chameera
+wickets taken in a match:2
+overs bowled:2
+
+Name:Maheesh Theekshana
+wickets taken in a match:0
+overs bowled:0
+
+Name:Dhananjaya De Silva
+wickets taken in a match:0
+overs bowled:2
+
+Name:Anjelo Mathews
+wickets taken in a match:1
+overs bowled:2
+
+Name:Isuru Udana
+wickets taken in a match:0
+overs bowled:2
+
+Name:Thisara Perera
+wickets taken in a match:2
+overs bowled:5
+
+Name:Suranga Lakmal
+wickets taken in a match:1
+overs bowled:4
+
+Total wickets taken by Sri Lanka team is 7
+**********************
+Sri Lanka won the match

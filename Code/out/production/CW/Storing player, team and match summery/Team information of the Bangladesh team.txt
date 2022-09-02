@@ -1,0 +1,6 @@
+Team information of the Bangladesh Team
+Name:Bangladesh
+No of matches:3
+position:2
+rating:47.75
+

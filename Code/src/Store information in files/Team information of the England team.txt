@@ -1,0 +1,6 @@
+Team information of the England Team
+Name:England
+No of matches:3
+position:3
+rating:40.3
+

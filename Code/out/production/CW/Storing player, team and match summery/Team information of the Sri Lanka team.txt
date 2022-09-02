@@ -1,0 +1,6 @@
+Team information of the Sri Lanka Team
+Name:Sri Lanka
+No of matches:3
+position:4
+rating:45.150000000000006
+

@@ -1,0 +1,201 @@
+Team who won the toss:Pakistan
+Decision of the team who won the toss(Bat/Ball):Bat
+
+Team New Zealand:
+Bowlers
+Name:Ish Sodhi
+wickets taken in a match:2
+overs bowled:1
+
+Name:Trent Boult
+wickets taken in a match:0
+overs bowled:3
+
+Name:Colin De Grandhomme
+wickets taken in a match:2
+overs bowled:3
+
+Name:Tim Southee
+wickets taken in a match:0
+overs bowled:2
+
+Name:Lockie Ferguson
+wickets taken in a match:2
+overs bowled:5
+
+Name:James Neesham
+wickets taken in a match:0
+overs bowled:2
+
+Name:Michell Santner
+wickets taken in a match:0
+overs bowled:3
+
+Name:Colin Munro
+wickets taken in a match:1
+overs bowled:1
+
+Total wickets taken by New Zealand team is: 7
+**********************
+Name:Kane Williamson
+scores taken in a match:15
+balls took for scoring:12
+method of dismissal:bowled
+
+Name:Ish Sodhi
+scores taken in a match:76
+balls took for scoring:60
+method of dismissal:stumped
+
+Name:Martin Guptill
+scores taken in a match:81
+balls took for scoring:44
+method of dismissal:caught
+
+Name:Ross Tailor
+scores taken in a match:3
+balls took for scoring:4
+method of dismissal:Played till the last over
+
+Name:Tom Latham
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Trent Boult
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Colin De Grandhomme
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Tim Southee
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Lockie Ferguson
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:James Neesham
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Michell Santner
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Colin Munro
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Total marks of New Zealand team is 175
+**********************
+
+Team Pakistan: 
+Batsmen details
+Name:Babar Azam
+scores taken in a match:20
+balls took for scoring:14
+method of dismissal:bowled
+
+Name:Shaheen Afridi
+scores taken in a match:0
+balls took for scoring:1
+method of dismissal:leg by wicket
+
+Name:Mohommad Amir
+scores taken in a match:20
+balls took for scoring:9
+method of dismissal:bowled
+
+Name:Shoaib Malik
+scores taken in a match:0
+balls took for scoring:1
+method of dismissal:leg by wicket
+
+Name:Asif Ali
+scores taken in a match:7
+balls took for scoring:7
+method of dismissal:stumped
+
+Name:Hasan Ali
+scores taken in a match:29
+balls took for scoring:24
+method of dismissal:bowled
+
+Name:Mohammad Hafeez
+scores taken in a match:0
+balls took for scoring:1
+method of dismissal:stumped
+
+Name:Fakhar Zaman
+scores taken in a match:109
+balls took for scoring:63
+method of dismissal:Played till the last over
+
+Name:Sarfaraz Ahmad
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Shadab Khan
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Imad Wasim
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Wahab Riaz
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Total marks of Pakistan team is 185
+**********************
+Name:Shaheen Afridi
+wickets taken in a match:2
+overs bowled:3
+
+Name:Mohommad Amir
+wickets taken in a match:1
+overs bowled:3
+
+Name:Shoaib Malik
+wickets taken in a match:0
+overs bowled:5
+
+Name:Hasan Ali
+wickets taken in a match:0
+overs bowled:3
+
+Name:Mohammad Hafeez
+wickets taken in a match:0
+overs bowled:2
+
+Name:Shadab Khan
+wickets taken in a match:0
+overs bowled:1
+
+Name:Imad Wasim
+wickets taken in a match:0
+overs bowled:1
+
+Name:Wahab Riaz
+wickets taken in a match:0
+overs bowled:2
+
+Total wickets taken by Pakistan team is 3
+**********************
+Pakistan won the match

@@ -1,0 +1,201 @@
+Team who won the toss:Sri Lanka
+Decision of the team who won the toss(Bat/Ball):Ball
+
+Team Pakistan:
+Bowlers
+Name:Shaheen Afridi
+wickets taken in a match:0
+overs bowled:2
+
+Name:Mohommad Amir
+wickets taken in a match:0
+overs bowled:1
+
+Name:Shoaib Malik
+wickets taken in a match:0
+overs bowled:0
+
+Name:Hasan Ali
+wickets taken in a match:0
+overs bowled:3
+
+Name:Mohammad Hafeez
+wickets taken in a match:2
+overs bowled:5
+
+Name:Shadab Khan
+wickets taken in a match:2
+overs bowled:3
+
+Name:Imad Wasim
+wickets taken in a match:2
+overs bowled:2
+
+Name:Wahab Riaz
+wickets taken in a match:1
+overs bowled:4
+
+Total wickets taken by Pakistan team is: 7
+**********************
+Name:Babar Azam
+scores taken in a match:0
+balls took for scoring:2
+method of dismissal:stumped
+
+Name:Shaheen Afridi
+scores taken in a match:15
+balls took for scoring:10
+method of dismissal:caught
+
+Name:Mohommad Amir
+scores taken in a match:17
+balls took for scoring:12
+method of dismissal:leg by wicket
+
+Name:Shoaib Malik
+scores taken in a match:29
+balls took for scoring:16
+method of dismissal:bowled
+
+Name:Asif Ali
+scores taken in a match:64
+balls took for scoring:49
+method of dismissal:stumped
+
+Name:Hasan Ali
+scores taken in a match:6
+balls took for scoring:2
+method of dismissal:bowled
+
+Name:Mohammad Hafeez
+scores taken in a match:17
+balls took for scoring:12
+method of dismissal:bowled
+
+Name:Fakhar Zaman
+scores taken in a match:1
+balls took for scoring:2
+method of dismissal:leg by wicket
+
+Name:Sarfaraz Ahmad
+scores taken in a match:19
+balls took for scoring:15
+method of dismissal:Played till the last over
+
+Name:Shadab Khan
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Imad Wasim
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Wahab Riaz
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Total marks of Pakistan team is 168
+**********************
+
+Team Sri Lanka: 
+Batsmen details
+Name:Dimuth Karunaratne
+scores taken in a match:0
+balls took for scoring:1
+method of dismissal:caught
+
+Name:Lasith Malinga
+scores taken in a match:1
+balls took for scoring:5
+method of dismissal:stumped
+
+Name:Dushmantha Chameera
+scores taken in a match:19
+balls took for scoring:13
+method of dismissal:caught
+
+Name:Kusal Perera
+scores taken in a match:0
+balls took for scoring:2
+method of dismissal:caught
+
+Name:Kusal Mendis
+scores taken in a match:80
+balls took for scoring:53
+method of dismissal:stumped
+
+Name:Avishka Fernando
+scores taken in a match:2
+balls took for scoring:3
+method of dismissal:caught
+
+Name:Maheesh Theekshana
+scores taken in a match:41
+balls took for scoring:21
+method of dismissal:bowled
+
+Name:Dhananjaya De Silva
+scores taken in a match:29
+balls took for scoring:22
+method of dismissal:Played till the last over
+
+Name:Anjelo Mathews
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Isuru Udana
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Thisara Perera
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Suranga Lakmal
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Total marks of Sri Lanka team is 172
+**********************
+Name:Lasith Malinga
+wickets taken in a match:1
+overs bowled:2
+
+Name:Dushmantha Chameera
+wickets taken in a match:1
+overs bowled:6
+
+Name:Maheesh Theekshana
+wickets taken in a match:1
+overs bowled:3
+
+Name:Dhananjaya De Silva
+wickets taken in a match:1
+overs bowled:1
+
+Name:Anjelo Mathews
+wickets taken in a match:0
+overs bowled:0
+
+Name:Isuru Udana
+wickets taken in a match:1
+overs bowled:3
+
+Name:Thisara Perera
+wickets taken in a match:0
+overs bowled:1
+
+Name:Suranga Lakmal
+wickets taken in a match:3
+overs bowled:4
+
+Total wickets taken by Sri Lanka team is 8
+**********************
+Sri Lanka won the match

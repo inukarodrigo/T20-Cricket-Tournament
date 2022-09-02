@@ -1,0 +1,205 @@
+Team who won the toss:Bangladesh
+Decision of the team who won the toss(Bat/Ball):Bat
+
+Team Afganistan:
+Bowlers
+Name:Rashid Khan
+wickets taken in a match:0
+overs bowled:2
+
+Name:Mohommad Nabi
+wickets taken in a match:0
+overs bowled:1
+
+Name:Mujeeb Rahman
+wickets taken in a match:0
+overs bowled:2
+
+Name:Hamid Hasan
+wickets taken in a match:0
+overs bowled:0
+
+Name:Rahmat Shah
+wickets taken in a match:2
+overs bowled:4
+
+Name:Gulbadin Naib
+wickets taken in a match:1
+overs bowled:4
+
+Name:Sayed Shirzad
+wickets taken in a match:0
+overs bowled:6
+
+Name:Samiullah Shinwari
+wickets taken in a match:0
+overs bowled:1
+
+Total wickets taken by Afganistan team is: 3
+**********************
+Name:Rashid Khan
+scores taken in a match:12
+balls took for scoring:13
+method of dismissal:leg by wicket
+
+Name:Mohommad Nabi
+scores taken in a match:4
+balls took for scoring:4
+method of dismissal:run out
+
+Name:Asghar Afghan
+scores taken in a match:41
+balls took for scoring:35
+method of dismissal:stumped
+
+Name:Hashmatullah Shahidi
+scores taken in a match:60
+balls took for scoring:47
+method of dismissal:run out
+
+Name:Mujeeb Rahman
+scores taken in a match:2
+balls took for scoring:3
+method of dismissal:bowled
+
+Name:Hamid Hasan
+scores taken in a match:23
+balls took for scoring:18
+method of dismissal:Played till the last over
+
+Name:Rahmat Shah
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Noor Ali
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Gulbadin Naib
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Sayed Shirzad
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Ikram Alikhil
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Samiullah Shinwari
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Total marks of Afganistan team is 142
+**********************
+
+Team Bangladesh: 
+Batsmen details
+Name:Shakib Al Hasan
+scores taken in a match:15
+balls took for scoring:11
+method of dismissal:leg by wicket
+
+Name:Mahmudullah
+scores taken in a match:70
+balls took for scoring:37
+method of dismissal:caught
+
+Name:Mushfiqur Rahim
+scores taken in a match:43
+balls took for scoring:34
+method of dismissal:stumped
+
+Name:Liton Das
+scores taken in a match:37
+balls took for scoring:38
+method of dismissal:Played till the last over
+
+Name:Mustafizur Rahman
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Tamim Iqbal
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Soumya Sarkar
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Mashrafe Mortaza
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Mehidy Hasan
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Mohommad Saifuddin
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Sabbir Rahman
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Rubel Hossain
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Total marks of Bangladesh team is 165
+**********************
+Name:Shakib Al Hasan
+wickets taken in a match:0
+overs bowled:1
+
+Name:Mahmudullah
+wickets taken in a match:0
+overs bowled:2
+
+Name:Mustafizur Rahman
+wickets taken in a match:0
+overs bowled:3
+
+Name:Soumya Sarkar
+wickets taken in a match:0
+overs bowled:1
+
+Name:Mashrafe Mortaza
+wickets taken in a match:2
+overs bowled:4
+
+Name:Mehidy Hasan
+wickets taken in a match:0
+overs bowled:5
+
+Name:Mohommad Saifuddin
+wickets taken in a match:0
+overs bowled:1
+
+Name:Sabbir Rahman
+wickets taken in a match:2
+overs bowled:1
+
+Name:Rubel Hossain
+wickets taken in a match:1
+overs bowled:2
+
+Total wickets taken by Bangladesh team is 5
+**********************
+Bangladesh won the match

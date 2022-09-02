@@ -1,0 +1,6 @@
+Team information of the India Team
+Name:India
+No of matches:3
+position:5
+rating:28.849999999999998
+

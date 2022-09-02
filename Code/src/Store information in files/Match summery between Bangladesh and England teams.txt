@@ -1,0 +1,197 @@
+Team who won the toss:England
+Decision of the team who won the toss(Bat/Ball):Bat
+
+Team Bangladesh:
+Bowlers
+Name:Shakib Al Hasan
+wickets taken in a match:0
+overs bowled:2
+
+Name:Mahmudullah
+wickets taken in a match:0
+overs bowled:2
+
+Name:Mustafizur Rahman
+wickets taken in a match:0
+overs bowled:1
+
+Name:Soumya Sarkar
+wickets taken in a match:0
+overs bowled:2
+
+Name:Mashrafe Mortaza
+wickets taken in a match:0
+overs bowled:1
+
+Name:Mehidy Hasan
+wickets taken in a match:0
+overs bowled:5
+
+Name:Mohommad Saifuddin
+wickets taken in a match:0
+overs bowled:2
+
+Name:Sabbir Rahman
+wickets taken in a match:0
+overs bowled:1
+
+Name:Rubel Hossain
+wickets taken in a match:3
+overs bowled:4
+
+Total wickets taken by Bangladesh team is: 3
+**********************
+Name:Shakib Al Hasan
+scores taken in a match:3
+balls took for scoring:7
+method of dismissal:leg by wicket
+
+Name:Mahmudullah
+scores taken in a match:2
+balls took for scoring:4
+method of dismissal:run out
+
+Name:Mushfiqur Rahim
+scores taken in a match:28
+balls took for scoring:19
+method of dismissal:run out
+
+Name:Liton Das
+scores taken in a match:25
+balls took for scoring:16
+method of dismissal:run out
+
+Name:Mustafizur Rahman
+scores taken in a match:7
+balls took for scoring:5
+method of dismissal:stumped
+
+Name:Tamim Iqbal
+scores taken in a match:45
+balls took for scoring:24
+method of dismissal:run out
+
+Name:Soumya Sarkar
+scores taken in a match:33
+balls took for scoring:36
+method of dismissal:bowled
+
+Name:Mashrafe Mortaza
+scores taken in a match:7
+balls took for scoring:4
+method of dismissal:run out
+
+Name:Mehidy Hasan
+scores taken in a match:3
+balls took for scoring:5
+method of dismissal:Played till the last over
+
+Name:Mohommad Saifuddin
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Sabbir Rahman
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Rubel Hossain
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Total marks of Bangladesh team is 153
+**********************
+
+Team England: 
+Batsmen details
+Name:Joe Root
+scores taken in a match:39
+balls took for scoring:27
+method of dismissal:caught
+
+Name:Ben Stokes
+scores taken in a match:26
+balls took for scoring:19
+method of dismissal:run out
+
+Name:Jos Buttler
+scores taken in a match:67
+balls took for scoring:45
+method of dismissal:leg by wicket
+
+Name:Moeen Ali
+scores taken in a match:29
+balls took for scoring:29
+method of dismissal:Played till the last over
+
+Name:Eoin Morgan
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Jonny Bairstow
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Chris Woakes
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Jofra Archer
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Jason Roy
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Adil Rashid
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Dom Sibley
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Name:Mark Wood
+scores taken in a match:0
+balls took for scoring:0
+method of dismissal:Not played
+
+Total marks of England team is 161
+**********************
+Name:Ben Stokes
+wickets taken in a match:2
+overs bowled:3
+
+Name:Moeen Ali
+wickets taken in a match:0
+overs bowled:5
+
+Name:Chris Woakes
+wickets taken in a match:3
+overs bowled:7
+
+Name:Jofra Archer
+wickets taken in a match:1
+overs bowled:2
+
+Name:Adil Rashid
+wickets taken in a match:2
+overs bowled:3
+
+Name:Mark Wood
+wickets taken in a match:0
+overs bowled:0
+
+Total wickets taken by England team is 8
+**********************
+England won the match

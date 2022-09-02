@@ -1,0 +1,120 @@
+Player information of the New Zealand Team
+Name:Kane Williamson
+Matches:3
+Innings:6
+Runs:149
+50s:1
+Best:90
+wickets:0
+Role:batsman
+
+
+Name:Ish Sodhi
+Matches:3
+Innings:6
+Runs:204
+50s:3
+Best:78
+wickets:3
+Role:bowler
+
+
+Name:Martin Guptill
+Matches:3
+Innings:6
+Runs:144
+50s:1
+Best:81
+wickets:0
+Role:batsman
+
+
+Name:Ross Tailor
+Matches:3
+Innings:6
+Runs:4
+50s:0
+Best:1
+wickets:0
+Role:batsman
+
+
+Name:Tom Latham
+Matches:3
+Innings:6
+Runs:4
+50s:0
+Best:0
+wickets:0
+Role:batsman
+
+
+Name:Trent Boult
+Matches:3
+Innings:6
+Runs:0
+50s:0
+Best:0
+wickets:1
+Role:bowler
+
+
+Name:Colin De Grandhomme
+Matches:3
+Innings:6
+Runs:0
+50s:0
+Best:0
+wickets:2
+Role:all rounder
+
+
+Name:Tim Southee
+Matches:3
+Innings:6
+Runs:0
+50s:0
+Best:0
+wickets:2
+Role:bowler
+
+
+Name:Lockie Ferguson
+Matches:3
+Innings:6
+Runs:0
+50s:0
+Best:0
+wickets:2
+Role:bowler
+
+
+Name:James Neesham
+Matches:3
+Innings:6
+Runs:0
+50s:0
+Best:0
+wickets:3
+Role:all rounder
+
+
+Name:Michell Santner
+Matches:3
+Innings:6
+Runs:0
+50s:0
+Best:0
+wickets:0
+Role:all rounder
+
+
+Name:Colin Munro
+Matches:3
+Innings:6
+Runs:0
+50s:0
+Best:0
+wickets:1
+Role:all rounder
+
