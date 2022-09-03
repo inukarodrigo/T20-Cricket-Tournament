@@ -1,5 +1,5 @@
-
-# T20-Cricket-Tournament
+![Logo](https://t20gullycricket.com/assets/images/bg/gully-cricket-banner.jpg)
+# T20 Cricket Tournament
 
 This is a GUI application to maintain player and team performance during T20 cricket tournament.
 
