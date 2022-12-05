@@ -1,4 +1,4 @@
-![Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcricket-poster&psig=AOvVaw0NVYrsPIBbl8Zp9wCT-VFo&ust=1670307465243000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJD8pK3q4fsCFQAAAAAdAAAAABAE)
+![Logo](https://img.freepik.com/premium-vector/cricket-championship-concept_1302-17559.jpg?w=2000)
 # T20 Cricket Tournament
 
 This is a GUI application to maintain player and team performance during T20 cricket tournament.
